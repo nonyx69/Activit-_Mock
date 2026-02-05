@@ -1,0 +1,16 @@
+{
+    "name": "noagu/act_mock",
+    "autoload": {
+        "psr-4": {
+            "Noagu\\ActMock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Noa"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
